@@ -1,5 +1,5 @@
 # Most used WordPress plugins
-A list of most used (by 1+ million devs and Webbouwer™®©) Wordpress plugins
+A list of most used Wordpress plugins, used by 1+ million devs and Webbouwer™®©
 
 Containing open source or a free (lite)version plugins.
 
