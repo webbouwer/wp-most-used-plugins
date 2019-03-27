@@ -1,7 +1,7 @@
 # Most used WordPress plugins
-A list of most used Wordpress plugins by Webbouwer®™©
+A list of most used (by 1+ million devs and Webbouwer™®©) Wordpress plugins
 
-Containing plugins are open source or a free (lite)version of a commercial package. 
+Containing open source or a free (lite)version plugins.
 
 ### Index
 * [Admin](#admin): Dashboard admin tools and function extensions - see also [User](#user)
@@ -211,6 +211,7 @@ TODO :P
 
 ## <a name="optimalize"></a>Optimalize
 * [Autoptimize](https://wordpress.org/plugins/autoptimize/)
+* [Smush Image Compression and Optimization](https://wordpress.org/plugins/wp-smushit/)
 
 ## <a name="page"></a>Page
 * [DuplicatePage](https://nl.wordpress.org/plugins/duplicate-page/)
