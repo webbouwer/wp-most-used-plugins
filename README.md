@@ -36,6 +36,7 @@ Containing open source or a free (lite)version plugins.
 * [Payment](#payment): Payment and donate tools and functions
 * [Popup](#popup): Popup window/box tools and functions
 * [Privacy](#privacy): Privacy policy tools and guidelines
+* [Profile](#profile): Profile tools and functions
 * [Security](#security): Security tools and function extensions
 * [Session](#session): Site session control and function extensions
 * [Shop](#shop): Shop tools and extensions - see [Webshop](#webshop)
@@ -235,6 +236,9 @@ TODO :P
 ## <a name="privacy"></a>Privacy
 * [really simple ssl](https://wordpress.org/plugins/really-simple-ssl/)
 * [one-click-ssl](https://wordpress.org/plugins/one-click-ssl/)
+
+## Profile
+* [WP User Avatar](https://wordpress.org/plugins/wp-user-avatar/)
 
 ## <a name="security"></a>Security
 * https://wordpress.org/plugins/wp-cerber/
