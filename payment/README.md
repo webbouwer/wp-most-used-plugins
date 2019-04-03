@@ -1,4 +1,4 @@
-### Payment plugins and tools for Worpdress
+### Payment plugins and tools for Wordpress
 - providers: Ideal, Icepay, Omnikassa
 - gateways: Mollie, Stripe, Sisow
 
