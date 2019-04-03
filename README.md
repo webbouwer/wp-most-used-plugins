@@ -225,6 +225,7 @@ TODO :P
 * https://wordpress.org/plugins/paytium/
 * https://wordpress.org/plugins/mollie-forms/
 * https://wordpress.org/plugins/doneren-met-mollie/
+Also see [payment section](https://github.com/webbouwer/wp-most-used-plugins/tree/master/payment)
 
 ## <a name="popup"></a>Popup
 * [wp popup maker](https://wordpress.org/plugins/popup-maker/)
@@ -237,8 +238,11 @@ TODO :P
 * [really simple ssl](https://wordpress.org/plugins/really-simple-ssl/)
 * [one-click-ssl](https://wordpress.org/plugins/one-click-ssl/)
 
-## Profile
+## <a name="profile"></a>Profile
 * [WP User Avatar](https://wordpress.org/plugins/wp-user-avatar/)
+* [WP User Manager](https://wordpress.org/plugins/wp-user-manager/)
+* [Profilegrid](https://wordpress.org/plugins/profilegrid-user-profiles-groups-and-communities/)
+* [Profile Builder](https://wordpress.org/plugins/profile-builder/)
 
 ## <a name="security"></a>Security
 * https://wordpress.org/plugins/wp-cerber/
