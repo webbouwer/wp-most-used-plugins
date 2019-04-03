@@ -260,15 +260,17 @@ Also see [payment section](https://github.com/webbouwer/wp-most-used-plugins/tre
 ## <a name="slider"></a>Slider
 * [Slide Anything](https://wordpress.org/plugins/slide-anything/) - works with shortcodes 
 * [Meta slider](https://wordpress.org/plugins/ml-slider/) - pay for video embed
-* https://wordpress.org/plugins/crelly-slider/ - works with shortcodes 
-* https://wordpress.org/plugins/smart-slider-3/ - pay for video and templates
-* https://wordpress.org/plugins/slider-video/
-* https://wordpress.org/plugins/master-slider/
-* https://wordpress.org/plugins/wp-anything-slider/
-* https://wordpress.org/plugins/motopress-slider-lite/
-* https://wordpress.org/plugins/meta-slider-and-carousel-with-lightbox/
-* https://wordpress.org/plugins/wp-1-slider/
-* https://wordpress.org/plugins/easyrotator-for-wordpress/
+* [Crelly slider](https://wordpress.org/plugins/crelly-slider/) - works with shortcodes 
+* [Smart slider-3](https://wordpress.org/plugins/smart-slider-3/) - pay for video and templates
+* [Slider video](https://wordpress.org/plugins/slider-video/)
+* [Master slider](https://wordpress.org/plugins/master-slider/)
+* [WP Anything Slider](https://wordpress.org/plugins/wp-anything-slider/)
+* [Motopress slider lite](https://wordpress.org/plugins/motopress-slider-lite/)
+* [Meta slider and carousel with lightbox](https://wordpress.org/plugins/meta-slider-and-carousel-with-lightbox/)
+* [WP 1 slider](https://wordpress.org/plugins/wp-1-slider/)
+* [easyrotator-for-wordpress](https://wordpress.org/plugins/easyrotator-for-wordpress/)
+
+or buy [Slider Revolution](https://revolution.themepunch.com/)
 
 ## <a name="socialapi"></a>Social Api
 * https://wordpress.org/plugins/social-networks-auto-poster-facebook-twitter-g/
