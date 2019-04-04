@@ -238,7 +238,7 @@ Also see [payment section](https://github.com/webbouwer/wp-most-used-plugins/tre
 ## <a name="pricing"></a>Pricing
 * [Pricing Table by Supsystic](https://wordpress.org/plugins/pricing-table-by-supsystic/)
 * [Responsive Pricing Table](https://wordpress.org/plugins/dk-pricr-responsive-pricing-table/)
-* [WordPress Pricing Table – ARPrice](https://wordpress.org/plugins/arprice-responsive-pricing-table/)
+* [WordPress Pricing Table – ARPrice](https://wordpress.org/plugins/arprice-responsive-pricing-table/) - lite version max 3 columns
 
 ## <a name="privacy"></a>Privacy
 * [really simple ssl](https://wordpress.org/plugins/really-simple-ssl/)
