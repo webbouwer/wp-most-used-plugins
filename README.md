@@ -309,6 +309,7 @@ or buy [Slider Revolution](https://revolution.themepunch.com/)
 
 ## <a name="webshop"></a>Webshop
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/)
+* [Woocommerce Single Product Page Customizer](https://nl.wordpress.org/plugins/woo-single-product-page-customizer/)
 * [WooCommerce PayPal Checkout Gateway](https://wordpress.org/plugins/woocommerce-gateway-paypal-express-checkout/)
 * (Hyyan WooCommerce Polylang Integration)[translation](#translation)
 * [Mollie Payments for WooCommerce](https://wordpress.org/plugins/mollie-payments-for-woocommerce/)
