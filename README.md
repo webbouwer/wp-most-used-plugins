@@ -225,6 +225,7 @@ Also see [payment section](https://github.com/webbouwer/wp-most-used-plugins/tre
 ## <a name="security"></a>Security
 * [Wordfence Security – Firewall & Malware Scan](https://wordpress.org/plugins/wordfence/)
 * [Anti-Spam by CleanTalk](https://wordpress.org/plugins/cleantalk-spam-protect/)
+* [All In One WP Security & Firewall](https://wordpress.org/plugins/all-in-one-wp-security-and-firewall/)
 * [Cerber Security, Antispam & Malware Scan](https://wordpress.org/plugins/wp-cerber/)
 * [iThemesSecurity-formerly better-wp-security](https://wordpress.org/plugins/better-wp-security/)
 * [limit login attempts reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/) - core enhanced
