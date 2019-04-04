@@ -9,7 +9,6 @@ Containing open source or a free (lite)version plugins.
 * [Auction](#auction): Auction tools and functions
 * [Background](#background): Background effect tools and extensions
 * [Backup](#backup): Wordpress backup tools and functions
-* [Buddypress](#buddypress): the famous WP blog forum - see also [Community](#community)
 * [Buttons](#buttons): Button tools and extensions - see also [Image](#image) and [Navigation](#navigation)
 * [Category](#category): Category tools and function extensions - see also [List](#list) and [Widget](#widget)
 * [Community](#community): Community building tools and functions
@@ -19,6 +18,7 @@ Containing open source or a free (lite)version plugins.
 * [Event](#event): Events, Calendars and agenda tools and functions
 * [Faq](#faq): FAQ tools and functions
 * [Form](#form): Form tools and function extensions
+* [Forum](#forum): Forum plugins, tools and function extensions
 * [Gallery](#gallery): Galleries (media) related tools and functions
 * [Git](#git): Git related tools and functions
 * [IDE](#ide): File edit tools and function extensions
@@ -84,42 +84,6 @@ Containing open source or a free (lite)version plugins.
 * https://wordpress.org/plugins/updraftplus/
 * https://wordpress.org/plugins/wp-backitup/
 
-## <a name="buddypress"></a>Buddypress
-* https://wordpress.org/plugins/buddypress/
-* * https://wordpress.org/plugins/buddypress-group-email-subscription/
-  * https://wordpress.org/plugins/events-manager/ [see Event](#event)
-  * https://wordpress.org/plugins/login-with-ajax/ [see Login](#login)
-  * https://wordpress.org/plugins/buddypress-simple-events/
-  * https://wordpress.org/plugins/bp-search/
-  * https://wordpress.org/plugins/buddydrive/
-  * https://wordpress.org/plugins/mediapress/
-  * https://wordpress.org/plugins/rendez-vous/
-  * https://wordpress.org/plugins/search/buddypress/
-  * https://wordpress.org/plugins/buddypress-cover-photo/
-  * https://wordpress.org/plugins/buddypress-first-letter-avatar/
-  * https://wordpress.org/plugins/bp-member-type-generator/
-  * https://wordpress.org/plugins/bp-featured-members/
-  * https://wordpress.org/plugins/bp-profile-search/
-  * https://wordpress.org/plugins/simple-terms-and-conditions-for-buddypress/
-  * https://wordpress.org/plugins/mass-messaging-in-buddypress/
-  * https://wordpress.org/plugins/buddypress-messages-spam-blocker/
-  * https://wordpress.org/plugins/bp-instant-chat/
-  * https://wordpress.org/plugins/buddy-registration-widget/
-  * https://wordpress.org/plugins/bp-cover/
-  * https://wordpress.org/plugins/bp-activity-autoloader/
-  * https://wordpress.org/plugins/buddypress-edit-activity/
-  * https://wordpress.org/plugins/buddypress-extended-friendship-request/
-  * https://wordpress.org/plugins/bp-member-type-generator/
-  * https://wordpress.org/plugins/advanced-xprofile-fields-for-buddypress/
-  * https://wordpress.org/plugins/buddypress-xprofile-custom-fields-type/
-  * https://wordpress.org/plugins/lh-private-buddypress/
-  * https://wordpress.org/plugins/bp-greeting-message/
-  * https://wordpress.org/plugins/buddypress-profile-tabs/
-  * https://wordpress.org/plugins/bp-automatic-friends/
-  * https://wordpress.org/plugins/bp-group-documents/
-  * https://wordpress.org/plugins/buddypress-desktop-notification/
-  * https://wordpress.org/plugins/buddyforms/
-
 ## <a name="buttons"></a>Buttons
 * https://wordpress.org/plugins/forget-about-shortcode-buttons/
 * https://wordpress.org/plugins/simple-shortcode-buttons/
@@ -131,7 +95,8 @@ Containing open source or a free (lite)version plugins.
 * https://wordpress.org/plugins/taxonomy-terms-order/
 
 ## <a name="community"></a>Community
-TODO :P
+* [buddypress](https://wordpress.org/plugins/buddypress/)
+* [ARMember](https://wordpress.org/plugins/armember-membership/) Lite version
 
 ## <a name="customtype"></a>Custom Type
 * https://wordpress.org/plugins/types/
@@ -147,20 +112,27 @@ TODO :P
 * https://businessdirectoryplugin.com/features/
 
 ## <a name="event"></a>Event, Calendar & Agenda
-* https://wordpress.org/plugins/events-manager/ [see Community](#community)
-* all-in-one-event-calendar
-* fullcalendar
-* the event calendar
-* AM Events
-* https://wordpress.org/plugins/pronamic-events/
+* [events-manager](https://wordpress.org/plugins/events-manager/)
+* [WP Fullcalendar](https://wordpress.org/plugins/wp-fullcalendar/) integrate with events-manager
+* [all-in-one-event-calendar](https://wordpress.org/plugins/all-in-one-event-calendar/)
+* [Simple Calendar – Google Calendar Plugin](https://wordpress.org/plugins/google-calendar-events/) 
+* [the event calendar](https://wordpress.org/plugins/the-events-calendar/)
+* [AM Events](https://wordpress.org/plugins/am-events/)
+* [Pronamic Events](https://wordpress.org/plugins/pronamic-events/)
 
 ## <a name="faq"></a>Faq
-* Awesome FAQ
+* [Ultimate FAQ](https://nl.wordpress.org/plugins/ultimate-faqs/)
+* [WP Awesome FAQ](https://wordpress.org/plugins/wp-awesome-faq/)
+* [Accordion FAQ](https://wordpress.org/plugins/responsive-accordion-and-collapse/)
 
 ## <a name="form"></a>Form
 * https://wordpress.org/plugins/formidable/
 * https://wordpress.org/plugins/contact-form-7/
 * https://wordpress.org/plugins/cp-easy-form-builder/
+
+## <a name="forum"></a>Forum
+* https://wordpress.org/plugins/buddypress/ 
+Also see [community](#community) and [fora section](https://github.com/webbouwer/wp-most-used-plugins/tree/master/fora)
 
 ## <a name="gallery"></a>Gallery
 * https://wordpress.org/plugins/gallery-video/
@@ -251,8 +223,9 @@ Also see [payment section](https://github.com/webbouwer/wp-most-used-plugins/tre
 * [Profile Builder](https://wordpress.org/plugins/profile-builder/)
 
 ## <a name="security"></a>Security
-* https://wordpress.org/plugins/wp-cerber/
-* https://wordpress.org/plugins/wordfence/
+* [Wordfence Security – Firewall & Malware Scan](https://wordpress.org/plugins/wordfence/)
+* [Anti-Spam by CleanTalk](https://wordpress.org/plugins/cleantalk-spam-protect/)
+* [Cerber Security, Antispam & Malware Scan](https://wordpress.org/plugins/wp-cerber/)
 * [iThemesSecurity-formerly better-wp-security](https://wordpress.org/plugins/better-wp-security/)
 * [limit login attempts reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/) - core enhanced
 * [limit login attempts](https://wordpress.org/plugins/miniorange-limit-login-attempts/) - original wp core
