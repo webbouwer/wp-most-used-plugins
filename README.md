@@ -35,6 +35,7 @@ Containing open source or a free (lite)version plugins.
 * [Page](#page): Page tools and function extensions - see also [Theme](#theme)
 * [Payment](#payment): Payment and donate tools and functions
 * [Popup](#popup): Popup window/box tools and functions
+* [Pricing](#pricing): Pricing tables and product price tools
 * [Privacy](#privacy): Privacy policy tools and guidelines
 * [Profile](#profile): Profile tools and functions
 * [Security](#security): Security tools and function extensions
@@ -233,6 +234,10 @@ Also see [payment section](https://github.com/webbouwer/wp-most-used-plugins/tre
 * [wp lightbox 2](https://wordpress.org/plugins/wp-lightbox-2/)
 * [wp jquery lightbox](https://wordpress.org/plugins/wp-jquery-lightbox/)
 * [popup builder](https://wordpress.org/plugins/popup-builder/)
+
+## <a name="pricing"></a>Pricing
+* [Pricing Table by Supsystic](https://wordpress.org/plugins/pricing-table-by-supsystic/)
+* [Responsive Pricing Table](https://wordpress.org/plugins/dk-pricr-responsive-pricing-table/)
 
 ## <a name="privacy"></a>Privacy
 * [really simple ssl](https://wordpress.org/plugins/really-simple-ssl/)
