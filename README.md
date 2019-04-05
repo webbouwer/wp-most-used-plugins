@@ -11,6 +11,7 @@ Containing open source or a free (lite)version plugins.
 * [Backup](#backup): Wordpress backup tools and functions
 * [Buttons](#buttons): Button tools and extensions - see also [Image](#image) and [Navigation](#navigation)
 * [Category](#category): Category tools and function extensions - see also [List](#list) and [Widget](#widget)
+* [Copy content](#copy-content): Content Copy/Duplicate tools and function extensions 
 * [Community](#community): Community building tools and functions
 * [Custom Type](#customtype): Custom post types and custom field extensions
 * [Database](#database): Database building tools and function extensions
@@ -32,7 +33,7 @@ Containing open source or a free (lite)version plugins.
 * [Membership](#link): User membership tools and functions
 * [Navigation](#navigation): Site navigation tools and function extensions
 * [Optimalize](#optimalize): Optimalisation & Speed
-* [Page](#page): Page tools and function extensions - see also [Theme](#theme)
+* [Page Builder](#page-builder): Page tools and function extensions - see also [Theme](#theme)
 * [Payment](#payment): Payment and donate tools and functions
 * [Popup](#popup): Popup window/box tools and functions
 * [Pricing](#pricing): Pricing tables and product price tools
@@ -97,6 +98,10 @@ Containing open source or a free (lite)version plugins.
 ## <a name="community"></a>Community
 * [buddypress](https://wordpress.org/plugins/buddypress/)
 * [ARMember](https://wordpress.org/plugins/armember-membership/) Lite version
+
+## <a name="copy-content"></a>Copy content
+* [DuplicatePage](https://nl.wordpress.org/plugins/duplicate-page/)
+* [CF Page or Post Duplicator]()
 
 ## <a name="customtype"></a>Custom Type
 * https://wordpress.org/plugins/types/
@@ -187,8 +192,7 @@ Also see [community](#community) and [fora section](https://github.com/webbouwer
 * [Autoptimize](https://wordpress.org/plugins/autoptimize/)
 * [Smush Image Compression and Optimization](https://wordpress.org/plugins/wp-smushit/)
 
-## <a name="page"></a>Page
-* [DuplicatePage](https://nl.wordpress.org/plugins/duplicate-page/)
+## <a name="page-builder"></a>Page Builder
 * [Visual composer](https://vc.wpbakery.com/) by wp backery
 * [page builder by site origion](https://wordpress.org/plugins/siteorigin-panels/)
 * [Live composer](https://github.com/live-composer/live-composer-page-builder)
