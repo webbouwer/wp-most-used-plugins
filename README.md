@@ -64,6 +64,7 @@ For more info see the [tools section](https://github.com/webbouwer/wp-most-used-
 * https://wordpress.org/plugins/wp-downgrade/
 
 ## <a name="archive"></a>Archive
+* https://nl.wordpress.org/plugins/anual-archive/
 * https://wordpress.org/plugins/smart-archives-reloaded/
 
 ## <a name="auction"></a>Auction
