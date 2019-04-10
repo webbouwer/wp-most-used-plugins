@@ -1,7 +1,7 @@
 # Most used WordPress plugins
 A list of most used Wordpress plugins, used by 1+ million devs and Webbouwer™®©
 
-Containing open source or a free (lite)version plugins.
+Containing open source or a free (lite)version plugins. For more info see the tools section.
 
 ### Index
 * [Admin](#admin): Dashboard admin tools and function extensions - see also [User](#user)
