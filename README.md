@@ -61,7 +61,6 @@ For more info see the [tools section](https://github.com/webbouwer/wp-most-used-
 
 ## <a name="admin"></a>Admin
 * https://wordpress.org/plugins/codepress-admin-columns/
-* https://wordpress.org/plugins/profile-builder/
 * https://wordpress.org/plugins/wp-downgrade/
 
 ## <a name="archive"></a>Archive
@@ -240,7 +239,8 @@ Also see [payment section](https://github.com/webbouwer/wp-most-used-plugins/tre
 * https://wordpress.org/plugins/wp-native-php-sessions/
 
 ## <a name="sitemap"></a>Sitemap
-* https://wordpress.org/plugins/table-of-contents-plus/
+* [simple-sitemap](https://nl.wordpress.org/plugins/simple-sitemap/)
+* [table-of-contents-plus](https://wordpress.org/plugins/table-of-contents-plus/)
 
 ## <a name="slider"></a>Slider
 * [Slide Anything](https://wordpress.org/plugins/slide-anything/) - works with shortcodes 
@@ -283,7 +283,7 @@ or buy [Slider Revolution](https://revolution.themepunch.com/)
 
 ## <a name="user"></a>User
 * https://wordpress.org/plugins/hide-admin-bar-from-non-admins/
-* https://wordpress.org/plugins/profile-builder/
+Also see [Profile](#profile) and [Membership](#link)
 
 ## <a name="video"></a>Video
 * https://wordpress.org/plugins/easy-video-player/
