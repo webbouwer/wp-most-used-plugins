@@ -191,6 +191,7 @@ Also see [community](#community) and [fora section](https://github.com/webbouwer
 
 ## <a name="optimalize"></a>Optimalize
 * [Autoptimize](https://wordpress.org/plugins/autoptimize/)
+* [Robin image optimizer](https://wordpress.org/plugins/robin-image-optimizer/)
 * [Smush Image Compression and Optimization](https://wordpress.org/plugins/wp-smushit/)
 
 ## <a name="page-builder"></a>Page Builder
