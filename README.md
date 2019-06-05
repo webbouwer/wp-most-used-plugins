@@ -60,6 +60,7 @@ For more info see the [tools section](https://github.com/webbouwer/wp-most-used-
 # Plugin list
 
 ## <a name="admin"></a>Admin
+* [WordPress Backend Customizer](https://wordpress.org/plugins/everest-admin-theme-lite/)
 * https://wordpress.org/plugins/codepress-admin-columns/
 * https://wordpress.org/plugins/wp-downgrade/
 
