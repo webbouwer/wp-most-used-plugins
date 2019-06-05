@@ -141,6 +141,10 @@ For more info see the [tools section](https://github.com/webbouwer/wp-most-used-
 Also see [community](#community) and [fora section](https://github.com/webbouwer/wp-most-used-plugins/tree/master/fora)
 
 ## <a name="gallery"></a>Gallery
+* [Modula](https://wordpress.org/plugins/modula-best-grid-gallery/)
+* [NextGEN Gallery](https://wordpress.org/plugins/nextgen-gallery/)
+* [Photo Gallery Slideshow & Masonry Tiled Gallery](https://wordpress.org/plugins/wp-responsive-photo-gallery)
+* [Post Category Image With Grid and Slider](https://wordpress.org/plugins/post-category-image-with-grid-and-slider/)
 * https://wordpress.org/plugins/gallery-video/
 * https://wordpress.org/plugins/video-playlist-and-gallery-plugin/
 * https://wordpress.org/plugins/youtube-showcase/
