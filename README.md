@@ -191,6 +191,10 @@ Also see [community](#community) and [fora section](https://github.com/webbouwer
 * https://wordpress.org/plugins/wp-user-manager/
 
 ## <a name="navigation"></a>Navigation
+* [QuadMenu](https://wordpress.org/plugins/quadmenu/)
+* [Max Mega Menu](https://wordpress.org/plugins/megamenu/)
+* [Conditional Menus](https://wordpress.org/plugins/conditional-menus/)
+* [Page scroll to id](https://wordpress.org/plugins/page-scroll-to-id/)
 * https://wordpress.org/plugins/breadcrumb-navxt/
 
 ## <a name="optimalize"></a>Optimalize
@@ -234,9 +238,10 @@ Also see [payment section](https://github.com/webbouwer/wp-most-used-plugins/tre
 
 ## <a name="security"></a>Security
 * [Wordfence Security – Firewall & Malware Scan](https://wordpress.org/plugins/wordfence/)
-* [Anti-Spam by CleanTalk](https://wordpress.org/plugins/cleantalk-spam-protect/)
+* [Email Encoder](https://wordpress.org/plugins/email-encoder-bundle/)
 * [All In One WP Security & Firewall](https://wordpress.org/plugins/all-in-one-wp-security-and-firewall/)
 * [Cerber Security, Antispam & Malware Scan](https://wordpress.org/plugins/wp-cerber/)
+* [Anti-Spam by CleanTalk](https://wordpress.org/plugins/cleantalk-spam-protect/)
 * [iThemesSecurity-formerly better-wp-security](https://wordpress.org/plugins/better-wp-security/)
 * [limit login attempts reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/) - core enhanced
 * [limit login attempts](https://wordpress.org/plugins/miniorange-limit-login-attempts/) - original wp core
