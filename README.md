@@ -315,6 +315,8 @@ Also see [Profile](#profile) and [Membership](#link)
 * [WooCommerce PayPal Checkout Gateway](https://wordpress.org/plugins/woocommerce-gateway-paypal-express-checkout/)
 * (Hyyan WooCommerce Polylang Integration)[translation](#translation)
 * [Mollie Payments for WooCommerce](https://wordpress.org/plugins/mollie-payments-for-woocommerce/)
+* [Themify WC product filter](https://wordpress.org/plugins/themify-wc-product-filter/)
+* [Woo product filter](https://wordpress.org/plugins/woo-product-filter/)
 
 ## <a name="widget"></a>Widget
 * https://wordpress.org/plugins/display-widgets/
