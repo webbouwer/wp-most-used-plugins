@@ -196,6 +196,7 @@ Also see [community](#community) and [fora section](https://github.com/webbouwer
 * [Max Mega Menu](https://wordpress.org/plugins/megamenu/)
 * [Conditional Menus](https://wordpress.org/plugins/conditional-menus/)
 * [Page scroll to id](https://wordpress.org/plugins/page-scroll-to-id/)
+* [Sticky Menu or Anything on scroll](https://wordpress.org/plugins/sticky-menu-or-anything-on-scroll)
 * https://wordpress.org/plugins/breadcrumb-navxt/
 
 ## <a name="optimalize"></a>Optimalize
