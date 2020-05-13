@@ -246,6 +246,8 @@ Also see [payment section](https://github.com/webbouwer/wp-most-used-plugins/tre
 ## <a name="privacy"></a>Privacy
 * [really simple ssl](https://wordpress.org/plugins/really-simple-ssl/)
 * [one-click-ssl](https://wordpress.org/plugins/one-click-ssl/)
+* [Cookie law info](https://wordpress.org/plugins/cookie-law-info/) 
+* [Cookie notice](https://wordpress.org/plugins/cookie-notice/)
 
 ## <a name="profile"></a>Profile
 * [WP User Avatar](https://wordpress.org/plugins/wp-user-avatar/)
