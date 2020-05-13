@@ -193,6 +193,7 @@ Also see [community](#community) and [fora section](https://github.com/webbouwer
 * https://wordpress.org/plugins/rename-wp-login/
 * https://wordpress.org/plugins/login-with-ajax/
 * https://wordpress.org/plugins/admin-custom-login/
+* https://demo.xootix.com/easy-login-for-woocommerce/
 
 ## <a name="membership"></a>Membership
 * https://wordpress.org/plugins/membership/
@@ -328,9 +329,11 @@ Also see [Profile](#profile) and [Membership](#link)
 * [Woocommerce Single Product Page Customizer](https://nl.wordpress.org/plugins/woo-single-product-page-customizer/)
 * [WooCommerce Single Product Checkout](https://wordpress.org/plugins/woocommerce-single-product-checkout/)
 * [WooCommerce Advanced Product Size Chart](https://wordpress.org/plugins/woo-advanced-product-size-chart/)
+* [WPC Product Bundles](https://wordpress.org/plugins/woo-product-bundle/)
 * [WooCommerce Custom Related Products](https://wordpress.org/plugins/woo-custom-related-products/)
 * [Checkout Field Editor (Checkout Manager) for WooCommerce](https://wordpress.org/plugins/woo-checkout-field-editor-pro/)
 * [Woo Related Products](https://wordpress.org/plugins/woo-related-products-refresh-on-reload/)
+* [WooCommerce Multi-Step Checkout](https://wordpress.org/plugins/wp-multi-step-checkout/)
 * [WooCommerce PayPal Checkout Gateway](https://wordpress.org/plugins/woocommerce-gateway-paypal-express-checkout/)
 * (Hyyan WooCommerce Polylang Integration)[translation](#translation)
 * [Mollie Payments for WooCommerce](https://wordpress.org/plugins/mollie-payments-for-woocommerce/)
