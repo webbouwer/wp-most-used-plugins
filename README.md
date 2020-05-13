@@ -10,6 +10,7 @@ For more info see the [tools section](https://github.com/webbouwer/wp-most-used-
 * [Auction](#auction): Auction tools and functions
 * [Background](#background): Background effect tools and extensions
 * [Backup](#backup): Wordpress backup tools and functions
+* [Browsing & Scrolling](#browsing): Browsing, scrolling and content loading
 * [Buttons](#buttons): Button tools and extensions - see also [Image](#image) and [Navigation](#navigation)
 * [Category](#category): Category tools and function extensions - see also [List](#list) and [Widget](#widget)
 * [Copy content](#copy-content): Content Copy/Duplicate tools and function extensions 
@@ -21,7 +22,7 @@ For more info see the [tools section](https://github.com/webbouwer/wp-most-used-
 * [Faq](#faq): FAQ tools and functions
 * [Form](#form): Form tools and function extensions
 * [Forum](#forum): Forum plugins, tools and function extensions
-* [Gallery](#gallery): Galleries (media) related tools and functions
+* [Gallery](#gallery): Galleries (media) related tools and functions (incl. virtual book)
 * [Git](#git): Git related tools and functions
 * [IDE](#ide): File edit tools and function extensions
 * [Image](#image): Image and post featured image tools and function extensions 
@@ -30,10 +31,10 @@ For more info see the [tools section](https://github.com/webbouwer/wp-most-used-
 * [Link](#link): Link management tools and functions
 * [List](#list): Front-end content eand widget lists tools and function extensions
 * [Login](#login): Login and user register tools and function extensions
-* [Media](#media): Media, files and video tools - see also [Gallery](#gallery) and [Slider](#slider)
-* [Membership](#link): User membership tools and functions
+* [Membership](#membership): User membership tools and functions
+* [Migration](#migration): Migrating Wordpress system and/or data
 * [Navigation](#navigation): Site navigation tools and function extensions
-* [Optimalize](#optimalize): Optimalisation & Speed
+* [Optimize](#optimize): Optimalisation & Speed
 * [Page Builder](#page-builder): Page tools and function extensions - see also [Theme](#theme)
 * [Payment](#payment): Payment and donate tools and functions
 * [Popup](#popup): Popup window/box tools and functions
@@ -41,6 +42,7 @@ For more info see the [tools section](https://github.com/webbouwer/wp-most-used-
 * [Privacy](#privacy): Privacy policy tools and guidelines
 * [Profile](#profile): Profile tools and functions
 * [Security](#security): Security tools and function extensions
+* [SEO](#seo): Search engine optimalisation
 * [Session](#session): Site session control and function extensions
 * [Shop](#shop): Shop tools and extensions - see [Webshop](#webshop)
 * [Sitemap](#sitemap): Sitemap tools and extensions 
@@ -73,6 +75,7 @@ For more info see the [tools section](https://github.com/webbouwer/wp-most-used-
 * https://wordpress.org/plugins/wp-auctions/
 
 ## <a name="background"></a>Background
+* https://wordpress.org/plugins/advanced-backgrounds
 * https://wordpress.org/plugins/background-per-page/
 * https://wordpress.org/plugins/simple-background-manager/
 * https://wordpress.org/plugins/fully-background-manager/
@@ -86,6 +89,9 @@ For more info see the [tools section](https://github.com/webbouwer/wp-most-used-
 * https://wordpress.org/plugins/backupwordpress/
 * https://wordpress.org/plugins/updraftplus/
 * https://wordpress.org/plugins/wp-backitup/
+
+## <a name="browsing"></a>Browsing & Scrolling
+* https://wordpress.org/plugins/auto-load-next-post/
 
 ## <a name="buttons"></a>Buttons
 * https://wordpress.org/plugins/forget-about-shortcode-buttons/
@@ -150,17 +156,21 @@ Also see [community](#community) and [fora section](https://github.com/webbouwer
 * https://wordpress.org/plugins/video-playlist-and-gallery-plugin/
 * https://wordpress.org/plugins/youtube-showcase/
 * https://wordpress.org/plugins/portfolio-gallery/
+* https://wordpress.org/plugins/3d-flipbook-dflip-lite/
 
 ## <a name="git"></a>Git
 * https://github.com/afragen/github-updater
 
 ## <a name="ide"></a>IDE
 * https://wordpress.org/plugins/wpide/
+* https://wordpress.org/plugins/aceide/
 
 ## <a name="image"></a>Image
 * https://wordpress.org/plugins/dynamic-featured-image/
 * https://wordpress.org/plugins/regenerate-thumbnails/
 * https://wordpress.org/plugins/post-list-featured-image/
+* https://wordpress.org/plugins/before-after-images-for-divi/
+* https://wordpress.org/plugins/browser-shots
 
 ## <a name="javascript"></a>Using Javascript with Wordpress
 * [SOGO-script-header-footer](https://nl.wordpress.org/plugins/oh-add-script-header-footer)
@@ -172,6 +182,7 @@ Also see [community](#community) and [fora section](https://github.com/webbouwer
 
 ## <a name="link"></a>Link
 * https://wordpress.org/plugins/link-manager/
+* https://wordpress.org/plugins/broken-link-checker
 
 ## <a name="list"></a>List
 * https://wordpress.org/plugins/recent-posts-widget-plus/
@@ -181,15 +192,16 @@ Also see [community](#community) and [fora section](https://github.com/webbouwer
 * https://wordpress.org/plugins/wordpress-social-login/
 * https://wordpress.org/plugins/rename-wp-login/
 * https://wordpress.org/plugins/login-with-ajax/
-
-## <a name="media"></a>Media
-* ..
+* https://wordpress.org/plugins/admin-custom-login/
 
 ## <a name="membership"></a>Membership
 * https://wordpress.org/plugins/membership/
 * https://wordpress.org/plugins/s2member/
 * https://wordpress.org/plugins/wp-members/
 * https://wordpress.org/plugins/wp-user-manager/
+
+## <a name="migration"></a>Migration
+* [All in one wp migration](https://wordpress.org/plugins/all-in-one-wp-migration/)
 
 ## <a name="navigation"></a>Navigation
 * [QuadMenu](https://wordpress.org/plugins/quadmenu/)
@@ -200,7 +212,7 @@ Also see [community](#community) and [fora section](https://github.com/webbouwer
 * [Sticky Menu or Anything on scroll](https://wordpress.org/plugins/sticky-menu-or-anything-on-scroll)
 * [Breadcrumb Nav XT](https://wordpress.org/plugins/breadcrumb-navxt/)
 
-## <a name="optimalize"></a>Optimalize
+## <a name="optimize"></a>Optimize
 * [Autoptimize](https://wordpress.org/plugins/autoptimize/)
 * [Robin image optimizer](https://wordpress.org/plugins/robin-image-optimizer/)
 * [Smush Image Compression and Optimization](https://wordpress.org/plugins/wp-smushit/)
@@ -215,6 +227,7 @@ Also see [community](#community) and [fora section](https://github.com/webbouwer
 * https://wordpress.org/plugins/paytium/
 * https://wordpress.org/plugins/mollie-forms/
 * https://wordpress.org/plugins/doneren-met-mollie/
+* https://wordpress.org/plugins/cf7-mollie
 Also see [payment section](https://github.com/webbouwer/wp-most-used-plugins/tree/master/payment)
 
 ## <a name="popup"></a>Popup
@@ -242,12 +255,16 @@ Also see [payment section](https://github.com/webbouwer/wp-most-used-plugins/tre
 ## <a name="security"></a>Security
 * [Wordfence Security – Firewall & Malware Scan](https://wordpress.org/plugins/wordfence/)
 * [Email Encoder](https://wordpress.org/plugins/email-encoder-bundle/)
+* [Better WP Security](https://wordpress.org/plugins/better-wp-security/)
 * [All In One WP Security & Firewall](https://wordpress.org/plugins/all-in-one-wp-security-and-firewall/)
 * [Cerber Security, Antispam & Malware Scan](https://wordpress.org/plugins/wp-cerber/)
 * [Anti-Spam by CleanTalk](https://wordpress.org/plugins/cleantalk-spam-protect/)
 * [iThemesSecurity-formerly better-wp-security](https://wordpress.org/plugins/better-wp-security/)
 * [limit login attempts reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/) - core enhanced
 * [limit login attempts](https://wordpress.org/plugins/miniorange-limit-login-attempts/) - original wp core
+
+## <a name="seo"></a>Search engine optimalisation
+* https://wordpress.org/plugins/all-in-one-seo-pack/
 
 ## <a name="session"></a>Session
 * https://wordpress.org/plugins/wp-native-php-sessions/
