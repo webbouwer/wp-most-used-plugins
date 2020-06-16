@@ -333,6 +333,8 @@ Also see [Profile](#profile) and [Membership](#link)
 * https://wordpress.org/plugins/wpmbytplayer/
 
 ## <a name="webshop"></a>Webshop
+* [Ajax add to cart for WooCommerce](https://nl.wordpress.org/plugins/woo-ajax-add-to-cart/)
+* [Ajax Cart AutoUpdate for WooCommerce](https://nl.wordpress.org/plugins/ajax-cart-autoupdate-for-woocommerce/)
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/)
 * [Woocommerce Single Product Page Customizer](https://nl.wordpress.org/plugins/woo-single-product-page-customizer/)
 * [WooCommerce Single Product Checkout](https://wordpress.org/plugins/woocommerce-single-product-checkout/)
@@ -349,6 +351,7 @@ Also see [Profile](#profile) and [Membership](#link)
 * [Mollie Payments for WooCommerce](https://wordpress.org/plugins/mollie-payments-for-woocommerce/)
 * [Themify WC product filter](https://wordpress.org/plugins/themify-wc-product-filter/)
 * [Woo product filter](https://wordpress.org/plugins/woo-product-filter/)
+
 
 ## <a name="widget"></a>Widget
 * https://wordpress.org/plugins/display-widgets/
