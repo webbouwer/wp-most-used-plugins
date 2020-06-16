@@ -31,6 +31,7 @@ For more info see the [tools section](https://github.com/webbouwer/wp-most-used-
 * [Link](#link): Link management tools and functions
 * [List](#list): Front-end content eand widget lists tools and function extensions
 * [Login](#login): Login and user register tools and function extensions
+* [Mail](#mail): Email tools
 * [Membership](#membership): User membership tools and functions
 * [Migration](#migration): Migrating Wordpress system and/or data
 * [Navigation](#navigation): Site navigation tools and function extensions
@@ -194,6 +195,9 @@ Also see [community](#community) and [fora section](https://github.com/webbouwer
 * https://wordpress.org/plugins/login-with-ajax/
 * https://wordpress.org/plugins/admin-custom-login/
 * https://demo.xootix.com/easy-login-for-woocommerce/
+
+## <a name="mail"></a>Mail
+* https://wordpress.org/plugins/wp-mail-smtp
 
 ## <a name="membership"></a>Membership
 * https://wordpress.org/plugins/membership/
