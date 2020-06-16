@@ -95,8 +95,9 @@ For more info see the [tools section](https://github.com/webbouwer/wp-most-used-
 * https://wordpress.org/plugins/wp-backitup/
 
 ## <a name="browsing"></a>Browsing & Scrolling
-* [Auto load next post](https://wordpress.org/plugins/auto-load-next-post/)
-* [Sticky Menu (or Anything!) on Scroll]https://nl.wordpress.org/plugins/sticky-menu-or-anything-on-scroll/
+* https://wordpress.org/plugins/auto-load-next-post/
+* https://nl.wordpress.org/plugins/sticky-menu-or-anything-on-scroll/
+* https://wordpress.org/plugins/accessible-divi
 
 ## <a name="buttons"></a>Buttons
 * https://wordpress.org/plugins/forget-about-shortcode-buttons/
@@ -199,6 +200,7 @@ Also see [community](#community) and [fora section](https://github.com/webbouwer
 * https://wordpress.org/plugins/login-with-ajax/
 * https://wordpress.org/plugins/admin-custom-login/
 * https://demo.xootix.com/easy-login-for-woocommerce/
+* https://wordpress.org/plugins/wp-custom-admin-interface/
 
 ## <a name="mail"></a>Mail
 * https://wordpress.org/plugins/wp-mail-smtp
