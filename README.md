@@ -92,7 +92,8 @@ For more info see the [tools section](https://github.com/webbouwer/wp-most-used-
 * https://wordpress.org/plugins/wp-backitup/
 
 ## <a name="browsing"></a>Browsing & Scrolling
-* https://wordpress.org/plugins/auto-load-next-post/
+* [Auto load next post](https://wordpress.org/plugins/auto-load-next-post/)
+* [Sticky Menu (or Anything!) on Scroll]https://nl.wordpress.org/plugins/sticky-menu-or-anything-on-scroll/
 
 ## <a name="buttons"></a>Buttons
 * https://wordpress.org/plugins/forget-about-shortcode-buttons/
@@ -310,6 +311,7 @@ or buy [Slider Revolution](https://revolution.themepunch.com/)
 
 ## <a name="theme"></a>Theme
 * https://wordpress.org/plugins/theme-check/
+* https://nl.wordpress.org/plugins/child-theme-wizard/
 
 ## <a name="translation"></a>Translation
 * [WP Globus](https://wordpress.org/plugins/wpglobus/)
@@ -334,9 +336,10 @@ Also see [Profile](#profile) and [Membership](#link)
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/)
 * [Woocommerce Single Product Page Customizer](https://nl.wordpress.org/plugins/woo-single-product-page-customizer/)
 * [WooCommerce Single Product Checkout](https://wordpress.org/plugins/woocommerce-single-product-checkout/)
+* [Rearrange Woocommerce Products](https://nl.wordpress.org/plugins/rearrange-woocommerce-products/)
 * [WPC Fly Cart for WooCommerce](https://wordpress.org/plugins/woo-fly-cart/)
 * [WooCommerce Advanced Product Size Chart](https://wordpress.org/plugins/woo-advanced-product-size-chart/)
-* [WPC Product Bundles](https://wordpress.org/plugins/woo-product-bundle/)
+* [WPC Product Bundles for WooCommerce](https://wordpress.org/plugins/woo-product-bundle/)
 * [WooCommerce Custom Related Products](https://wordpress.org/plugins/woo-custom-related-products/)
 * [Checkout Field Editor (Checkout Manager) for WooCommerce](https://wordpress.org/plugins/woo-checkout-field-editor-pro/)
 * [Woo Related Products](https://wordpress.org/plugins/woo-related-products-refresh-on-reload/)
