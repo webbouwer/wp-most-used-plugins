@@ -97,7 +97,6 @@ For more info see the [tools section](https://github.com/webbouwer/wp-most-used-
 ## <a name="browsing"></a>Browsing & Scrolling
 * https://wordpress.org/plugins/auto-load-next-post/
 * https://nl.wordpress.org/plugins/sticky-menu-or-anything-on-scroll/
-* https://wordpress.org/plugins/accessible-divi
 
 ## <a name="buttons"></a>Buttons
 * https://wordpress.org/plugins/forget-about-shortcode-buttons/
