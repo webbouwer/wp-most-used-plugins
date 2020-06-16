@@ -142,6 +142,7 @@ For more info see the [tools section](https://github.com/webbouwer/wp-most-used-
 * [Ultimate FAQ](https://nl.wordpress.org/plugins/ultimate-faqs/)
 * [WP Awesome FAQ](https://wordpress.org/plugins/wp-awesome-faq/)
 * [Accordion FAQ](https://wordpress.org/plugins/responsive-accordion-and-collapse/)
+* [WP FAQ](https://nl.wordpress.org/plugins/sp-faq/)
 
 ## <a name="form"></a>Form
 * https://wordpress.org/plugins/formidable/
