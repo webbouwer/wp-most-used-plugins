@@ -69,6 +69,7 @@ For more info see the [tools section](https://github.com/webbouwer/wp-most-used-
 * [WordPress Backend Customizer](https://wordpress.org/plugins/everest-admin-theme-lite/)
 * https://wordpress.org/plugins/codepress-admin-columns/
 * https://wordpress.org/plugins/wp-downgrade/
+* https://wordpress.org/plugins/wp-custom-admin-interface/
 
 ## <a name="archive"></a>Archive
 * https://nl.wordpress.org/plugins/anual-archive/
@@ -200,7 +201,6 @@ Also see [community](#community) and [fora section](https://github.com/webbouwer
 * https://wordpress.org/plugins/login-with-ajax/
 * https://wordpress.org/plugins/admin-custom-login/
 * https://demo.xootix.com/easy-login-for-woocommerce/
-* https://wordpress.org/plugins/wp-custom-admin-interface/
 
 ## <a name="mail"></a>Mail
 * https://wordpress.org/plugins/wp-mail-smtp
