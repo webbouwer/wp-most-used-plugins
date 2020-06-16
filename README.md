@@ -2,6 +2,9 @@
 A list of 150+ most used Wordpress plugins, used by 1+ million devs and Webbouwer™®©
 
 Containing open source or a free (lite)version plugins. 
+
+Use this for import [wordpress.org/plugins slugname-list](https://github.com/webbouwer/wp-plugin-bundle/blob/master/list.md)
+
 For more info see the [tools section](https://github.com/webbouwer/wp-most-used-plugins/tree/master/tools).
 
 ### Index
