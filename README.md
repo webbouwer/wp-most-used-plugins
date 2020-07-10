@@ -23,6 +23,7 @@ For more info see the [tools section](https://github.com/webbouwer/wp-most-used-
 * [Directories](#directories): Business/People/Link Directory management tools and functions
 * [Event](#event): Events, Calendars and agenda tools and functions
 * [Faq](#faq): FAQ tools and functions
+* [Files](#files): File types, restrictions, encryption and security
 * [Form](#form): Form tools and function extensions
 * [Forum](#forum): Forum plugins, tools and function extensions
 * [Gallery](#gallery): Galleries (media) related tools and functions (incl. virtual book)
@@ -144,6 +145,9 @@ For more info see the [tools section](https://github.com/webbouwer/wp-most-used-
 * [WP Awesome FAQ](https://wordpress.org/plugins/wp-awesome-faq/)
 * [Accordion FAQ](https://wordpress.org/plugins/responsive-accordion-and-collapse/)
 * [WP FAQ](https://nl.wordpress.org/plugins/sp-faq/)
+
+## <a name="files"></a>files
+* [Add mime types](https://wordpress.org/plugins/wp-add-mime-types)
 
 ## <a name="form"></a>Form
 * https://wordpress.org/plugins/formidable/
