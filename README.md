@@ -55,6 +55,7 @@ For more info see the [tools section](https://github.com/webbouwer/wp-most-used-
 * [Social Api](#socialapi): Social network api tools and functions
 * [Speech](#speech): Speech from and to text functions and extensions
 * [Support](#support): Support and client portal tools and functions
+* [Syntax](#syntax): Code syntax display, highlight and editor functions
 * [Tables](#tables): Tables & Grids extension functions and tools(pricing,finance etc.) 
 * [Theme](#theme): Theme extension functions and development tools
 * [Translation](#translation): Translation tools and functions
@@ -313,6 +314,9 @@ or buy [Slider Revolution](https://revolution.themepunch.com/)
 
 ## <a name="support"></a>Support
 * https://wordpress.org/plugins/js-support-ticket/
+
+## <a name="syntax"></a>Syntax
+* [Urvanov Syntax Highlighter](https://wordpress.org/plugins/urvanov-syntax-highlighter/)
 
 ## <a name="tables"></a>Tables
 * https://wordpress.org/plugins/pricingtable/
