@@ -206,6 +206,7 @@ Also see [community](#community) and [fora section](https://github.com/webbouwer
 * https://wordpress.org/plugins/login-with-ajax/
 * https://wordpress.org/plugins/admin-custom-login/
 * https://demo.xootix.com/easy-login-for-woocommerce/
+* https://wordpress.org/plugins/peters-login-redirect/
 
 ## <a name="mail"></a>Mail
 * https://wordpress.org/plugins/wp-mail-smtp
