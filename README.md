@@ -224,6 +224,7 @@ Also see [community](#community) and [fora section](https://github.com/webbouwer
 * [Max Mega Menu](https://wordpress.org/plugins/megamenu/)
 * [Conditional Menus](https://wordpress.org/plugins/conditional-menus/)
 * [Page scroll to id](https://wordpress.org/plugins/page-scroll-to-id/)
+* [PAJ Divi Menu Options](https://wordpress.org/plugins/paj-divi-menu-options/)
 * [WP Widget in Navigation](https://wordpress.org/plugins/wp-widget-in-navigation/)
 * [Sticky Menu or Anything on scroll](https://wordpress.org/plugins/sticky-menu-or-anything-on-scroll)
 * [Breadcrumb Nav XT](https://wordpress.org/plugins/breadcrumb-navxt/)
