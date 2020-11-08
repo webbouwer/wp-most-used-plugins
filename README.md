@@ -325,8 +325,9 @@ or buy [Slider Revolution](https://revolution.themepunch.com/)
 * https://wordpress.org/plugins/easy-table-of-contents/
 
 ## <a name="theme"></a>Theme
-* https://wordpress.org/plugins/theme-check/
-* https://nl.wordpress.org/plugins/child-theme-wizard/
+* [Child theme check](https://wordpress.org/plugins/child-theme-check/)
+* [Theme check](https://wordpress.org/plugins/theme-check/)
+* [Child theme wizard](https://nl.wordpress.org/plugins/child-theme-wizard/)
 
 ## <a name="translation"></a>Translation
 * [WP Globus](https://wordpress.org/plugins/wpglobus/)
