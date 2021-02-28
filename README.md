@@ -137,7 +137,7 @@ For more info see the [tools section](https://github.com/webbouwer/wp-most-used-
 * [WP Fullcalendar](https://wordpress.org/plugins/wp-fullcalendar/) integrate with events-manager
 * [all-in-one-event-calendar](https://wordpress.org/plugins/all-in-one-event-calendar/)
 * [Simple Calendar – Google Calendar Plugin](https://wordpress.org/plugins/google-calendar-events/) 
-* [the event calendar](https://wordpress.org/plugins/the-events-calendar/)
+* [the event calendar](https://wordpress.org/plugins/the-events-calendar/) + [templates](https://nl.wordpress.org/plugins/template-events-calendar/)
 * [AM Events](https://wordpress.org/plugins/am-events/)
 * [Pronamic Events](https://wordpress.org/plugins/pronamic-events/)
 
