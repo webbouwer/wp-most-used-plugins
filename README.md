@@ -213,7 +213,6 @@ Also see [community](#community) and [fora section](https://github.com/webbouwer
 * https://wordpress.org/plugins/wp-mail-smtp
 
 ## <a name="membership"></a>Membership
-* https://wordpress.org/plugins/membership/
 * https://wordpress.org/plugins/s2member/
 * https://wordpress.org/plugins/wp-members/
 * https://wordpress.org/plugins/wp-user-manager/
