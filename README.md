@@ -5,8 +5,6 @@ Containing open source or a free (lite)version plugins.
 
 For import use the [wp-plugin-bundle list.md](https://github.com/webbouwer/wp-plugin-bundle/blob/master/list.md)
 
-For more info see the [tools section](https://github.com/webbouwer/wp-most-used-plugins/tree/master/tools).
-
 ### Index
 * [Admin](#admin): Dashboard admin tools and function extensions - see also [User](#user)
 * [Archive](#archive): Content archive tools and functions
