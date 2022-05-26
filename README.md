@@ -56,6 +56,7 @@ For import use the [wp-plugin-bundle list.md](https://github.com/webbouwer/wp-pl
 * [Support](#support): Support and client portal tools and functions
 * [Syntax](#syntax): Code syntax display, highlight and editor functions
 * [Tables](#tables): Tables & Grids extension functions and tools(pricing,finance etc.) 
+* [Taxonomy](#taxonomy): Taxonomy admin and control
 * [Theme](#theme): Theme extension functions and development tools
 * [Translation](#translation): Translation tools and functions
 * [Url](#url): Url management tools and function extensions
@@ -71,6 +72,11 @@ For import use the [wp-plugin-bundle list.md](https://github.com/webbouwer/wp-pl
 * https://wordpress.org/plugins/codepress-admin-columns/
 * https://wordpress.org/plugins/wp-downgrade/
 * https://wordpress.org/plugins/wp-custom-admin-interface/
+* https://wordpress.org/plugins/admin-bar-dashboard-control/
+
+## <a name="taxonomy"></a>Taxonomy
+* https://wordpress.org/plugins/admin-taxonomy-filter/
+* https://wordpress.org/plugins/taxonomy-terms-order/
 
 ## <a name="archive"></a>Archive
 * https://nl.wordpress.org/plugins/anual-archive/
@@ -127,6 +133,7 @@ For import use the [wp-plugin-bundle list.md](https://github.com/webbouwer/wp-pl
 * https://wordpress.org/plugins/advanced-custom-fields/
 
 ## <a name="database"></a>Database
+* https://nl.wordpress.org/plugins/database-cleaner/
 * https://wordpress.org/plugins/participants-database/
 
 ## <a name="directories"></a>Directories
@@ -136,6 +143,7 @@ For import use the [wp-plugin-bundle list.md](https://github.com/webbouwer/wp-pl
 * https://businessdirectoryplugin.com/features/
 
 ## <a name="event"></a>Event, Calendar & Agenda
+* [Simple Schedule appointments](https://wordpress.org/plugins/simply-schedule-appointments/)
 * [events-manager](https://wordpress.org/plugins/events-manager/)
 * [WP Fullcalendar](https://wordpress.org/plugins/wp-fullcalendar/) integrate with events-manager
 * [all-in-one-event-calendar](https://wordpress.org/plugins/all-in-one-event-calendar/)
@@ -151,6 +159,7 @@ For import use the [wp-plugin-bundle list.md](https://github.com/webbouwer/wp-pl
 * [WP FAQ](https://nl.wordpress.org/plugins/sp-faq/)
 
 ## <a name="fileupload"></a>file upload
+* [WP File Manager](https://wordpress.org/plugins/wp-file-manager/)
 * [Add mime types](https://wordpress.org/plugins/wp-add-mime-types)
 * [Add from server](https://nl.wordpress.org/plugins/add-from-server)
 
@@ -182,6 +191,7 @@ Also see [community](#community) and [fora section](https://github.com/webbouwer
 * https://wordpress.org/plugins/aceide/
 
 ## <a name="image"></a>Image
+* https://nl.wordpress.org/plugins/wp-custom-taxonomy-image/
 * https://wordpress.org/plugins/dynamic-featured-image/
 * https://wordpress.org/plugins/regenerate-thumbnails/
 * https://wordpress.org/plugins/post-list-featured-image/
@@ -313,6 +323,7 @@ or buy [Slider Revolution](https://revolution.themepunch.com/)
 
 ## <a name="socialapi"></a>Social Api
 * https://wordpress.org/plugins/social-networks-auto-poster-facebook-twitter-g/
+* https://nl.wordpress.org/plugins/wp-my-instagram/
 
 ## <a name="speech"></a>Speech 
 * https://wordpress.org/plugins/responsivevoice-text-to-speech/
@@ -345,6 +356,7 @@ or buy [Slider Revolution](https://revolution.themepunch.com/)
 Also see [Profile](#profile) and [Membership](#link)
 
 ## <a name="video"></a>Video
+* https://wordpress.org/plugins/all-in-one-video-gallery/
 * https://wordpress.org/plugins/easy-video-player/
 * https://wordpress.org/plugins/video-embed-thumbnail-generator/
 * background-videos-for-visual-composer (deprecated)
@@ -373,6 +385,7 @@ Also see [Profile](#profile) and [Membership](#link)
 
 
 ## <a name="widget"></a>Widget
+* https://wordpress.org/plugins/classic-widgets/
 * https://wordpress.org/plugins/display-widgets/
 * https://wordpress.org/plugins/black-studio-tinymce-widget/
 * https://wordpress.org/plugins/wp-widget-in-navigation/
