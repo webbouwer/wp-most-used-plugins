@@ -74,10 +74,6 @@ For import use the [wp-plugin-bundle list.md](https://github.com/webbouwer/wp-pl
 * https://wordpress.org/plugins/wp-custom-admin-interface/
 * https://wordpress.org/plugins/admin-bar-dashboard-control/
 
-## <a name="taxonomy"></a>Taxonomy
-* https://wordpress.org/plugins/admin-taxonomy-filter/
-* https://wordpress.org/plugins/taxonomy-terms-order/
-
 ## <a name="archive"></a>Archive
 * https://nl.wordpress.org/plugins/anual-archive/
 * https://wordpress.org/plugins/smart-archives-reloaded/
@@ -130,6 +126,7 @@ For import use the [wp-plugin-bundle list.md](https://github.com/webbouwer/wp-pl
 
 ## <a name="customtype"></a>Custom Type
 * https://wordpress.org/plugins/types/
+* https://wordpress.org/plugins/post-types-order/
 * https://wordpress.org/plugins/advanced-custom-fields/
 
 ## <a name="database"></a>Database
@@ -333,6 +330,10 @@ or buy [Slider Revolution](https://revolution.themepunch.com/)
 
 ## <a name="syntax"></a>Syntax
 * [Urvanov Syntax Highlighter](https://wordpress.org/plugins/urvanov-syntax-highlighter/)
+
+## <a name="taxonomy"></a>Taxonomy
+* https://wordpress.org/plugins/admin-taxonomy-filter/
+* https://wordpress.org/plugins/taxonomy-terms-order/
 
 ## <a name="tables"></a>Tables
 * https://wordpress.org/plugins/pricingtable/
