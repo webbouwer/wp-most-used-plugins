@@ -14,6 +14,7 @@ For import use the [wp-plugin-bundle list.md](https://github.com/webbouwer/wp-pl
 * [Browsing & Scrolling](#browsing): Browsing, scrolling and content loading
 * [Buttons](#buttons): Button tools and extensions - see also [Image](#image) and [Navigation](#navigation)
 * [Category](#category): Category tools and function extensions - see also [List](#list) and [Widget](#widget)
+* [Coming soon](#coming-soon): Coming soon / underconstruction page plugins
 * [Copy content](#copy-content): Content Copy/Duplicate tools and function extensions 
 * [Community](#community): Community building tools and functions
 * [Custom Type](#customtype): Custom post types and custom field extensions
@@ -108,6 +109,10 @@ For import use the [wp-plugin-bundle list.md](https://github.com/webbouwer/wp-pl
 * https://wordpress.org/plugins/order-categories/
 * https://wordpress.org/plugins/categories-images/
 * https://wordpress.org/plugins/taxonomy-terms-order/
+
+## <a name="coming-soon"></a>Coming soon
+* Coming soon - underconstruction [coming-soon](https://wordpress.org/plugins/coming-soon/)
+* Underconstruction - [under-construction-page](https://wordpress.org/plugins/under-construction-page/)
 
 ## <a name="community"></a>Community
 * [buddypress](https://wordpress.org/plugins/buddypress/)
