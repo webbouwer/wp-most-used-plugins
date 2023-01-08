@@ -16,7 +16,8 @@ For import use the [wp-plugin-bundle list.md](https://github.com/webbouwer/wp-pl
 * [Buttons](#buttons): Button tools and extensions - see also [Image](#image) and [Navigation](#navigation)
 * [Category](#category): Category tools and function extensions - see also [List](#list) and [Widget](#widget)
 * [Coming soon](#coming-soon): Coming soon / underconstruction page plugins
-* [Copy content](#copy-content): Content Copy/Duplicate tools and function extensions 
+* [Copy content](#copy-content): Content Copy/Duplicate tools and function extensions
+* [Commments](#comment): Comments display, options and management
 * [Community](#community): Community building tools and functions
 * [Custom Type](#customtype): Custom post types and custom field extensions
 * [Database](#database): Database building tools and function extensions
@@ -120,9 +121,14 @@ For import use the [wp-plugin-bundle list.md](https://github.com/webbouwer/wp-pl
 * Coming soon - underconstruction [coming-soon](https://wordpress.org/plugins/coming-soon/)
 * Underconstruction - [under-construction-page](https://wordpress.org/plugins/under-construction-page/)
 
+## <a name="comment"></a>Comments
+* [Disable comments](https://wordpress.org/plugins/disable-comments)
+
 ## <a name="community"></a>Community
 * [buddypress](https://wordpress.org/plugins/buddypress/)
 * [ARMember](https://wordpress.org/plugins/armember-membership/) Lite version
+* [Miniorange login Openid](https://wordpress.org/plugins/miniorange-login-openid)
+* [WP Members](https://wordpress.org/plugins/wp-members/) (Free with paid extensions) 
 
 ## <a name="copy-content"></a>Copy content
 * [DuplicatePage](https://nl.wordpress.org/plugins/duplicate-page/)
