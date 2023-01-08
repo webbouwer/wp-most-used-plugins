@@ -9,6 +9,7 @@ For import use the [wp-plugin-bundle list.md](https://github.com/webbouwer/wp-pl
 * [Admin](#admin): Dashboard admin tools and function extensions - see also [User](#user)
 * [Archive](#archive): Content archive tools and functions
 * [Auction](#auction): Auction tools and functions
+* [Audio](#audio): Audio, sound and music
 * [Background](#background): Background effect tools and extensions
 * [Backup](#backup): Wordpress backup tools and functions
 * [Browsing & Scrolling](#browsing): Browsing, scrolling and content loading
@@ -79,8 +80,11 @@ For import use the [wp-plugin-bundle list.md](https://github.com/webbouwer/wp-pl
 * https://wordpress.org/plugins/smart-archives-reloaded/
 
 ## <a name="auction"></a>Auction
-* https://wordpress.org/plugins/ultimate-auction/
-* https://wordpress.org/plugins/wp-auctions/
+* [Ultimate auction](https://wordpress.org/plugins/ultimate-auction/)
+* [WP-auctions](https://wordpress.org/plugins/wp-auctions/)
+
+## <a name="audio"></a>Audio
+* [Podcastplayer](https://wordpress.org/plugins/podcast-player/)
 
 ## <a name="background"></a>Background
 * https://wordpress.org/plugins/advanced-backgrounds
@@ -159,6 +163,7 @@ For import use the [wp-plugin-bundle list.md](https://github.com/webbouwer/wp-pl
 * [WP File Manager](https://wordpress.org/plugins/wp-file-manager/)
 * [Add mime types](https://wordpress.org/plugins/wp-add-mime-types)
 * [Add from server](https://nl.wordpress.org/plugins/add-from-server)
+* [Woo Product attachment](https://wordpress.org/plugins/woo-product-attachment/)
 
 ## <a name="form"></a>Form
 * https://wordpress.org/plugins/formidable/
@@ -199,9 +204,10 @@ Also see [community](#community) and [fora section](https://github.com/webbouwer
 * [SOGO-script-header-footer](https://nl.wordpress.org/plugins/oh-add-script-header-footer)
 
 ## <a name="job"></a>Jobboard and Vacancies 
-* https://wordpress.org/plugins/wp-job-manager/
-* https://wordpress.org/plugins/simple-job-board/
-* https://wordpress.org/plugins/js-jobs/
+* [Jobs for WordPress](https://wordpress.org/plugins/job-postings/)
+* [WP Job Manager](https://wordpress.org/plugins/wp-job-manager/)
+* [Simple Job Board](https://wordpress.org/plugins/simple-job-board/)
+* [JS Jobs](https://wordpress.org/plugins/js-jobs/)
 
 ## <a name="link"></a>Link
 * https://wordpress.org/plugins/link-manager/
@@ -306,6 +312,7 @@ Also see [payment section](https://github.com/webbouwer/wp-most-used-plugins/tre
 ## <a name="slider"></a>Slider
 * [Slide Anything](https://wordpress.org/plugins/slide-anything/) - works with shortcodes 
 * [Meta slider](https://wordpress.org/plugins/ml-slider/) - pay for video embed
+* [Slider Ultimate](https://wordpress.org/plugins/ultimate-slider/)
 * [Crelly slider](https://wordpress.org/plugins/crelly-slider/) - works with shortcodes 
 * [Smart slider-3](https://wordpress.org/plugins/smart-slider-3/) - pay for video and templates
 * [Slider video](https://wordpress.org/plugins/slider-video/)
@@ -315,6 +322,12 @@ Also see [payment section](https://github.com/webbouwer/wp-most-used-plugins/tre
 * [Meta slider and carousel with lightbox](https://wordpress.org/plugins/meta-slider-and-carousel-with-lightbox/)
 * [WP 1 slider](https://wordpress.org/plugins/wp-1-slider/)
 * [easyrotator-for-wordpress](https://wordpress.org/plugins/easyrotator-for-wordpress/)
+* [WooCommerce Blocks](https://wordpress.org/plugins/woo-gutenberg-products-block/)
+* [Woo product slider and carousel with category](https://wordpress.org/plugins/woo-product-slider-and-carousel-with-category/)
+* [Woo category showcase](https://wordpress.org/plugins/wc-category-showcase)
+* [WP WooCommerce Category Slider ](https://wordpress.org/plugins/woo-category-slider-by-pluginever/)  :: nice, for many (sub)categories, needs styling
+* [Category Slider for WooCommerce](https://wordpress.org/plugins/woo-category-slider-grid/)
+
 
 or buy [Slider Revolution](https://revolution.themepunch.com/)
 
@@ -357,12 +370,13 @@ or buy [Slider Revolution](https://revolution.themepunch.com/)
 Also see [Profile](#profile) and [Membership](#link)
 
 ## <a name="video"></a>Video
-* https://wordpress.org/plugins/all-in-one-video-gallery/
-* https://wordpress.org/plugins/easy-video-player/
-* https://wordpress.org/plugins/video-embed-thumbnail-generator/
-* background-videos-for-visual-composer (deprecated)
-* https://wordpress.org/plugins/fv-wordpress-flowplayer/
-* https://wordpress.org/plugins/wpmbytplayer/
+* [All in one videogallery](https://wordpress.org/plugins/all-in-one-video-gallery/)
+* [Easy video player](https://wordpress.org/plugins/easy-video-player/)
+* [Product Video Gallery Slider for WC](https://wordpress.org/plugins/product-video-gallery-slider-for-woocommerce/)
+* [WC embed videos to product image gallery](https://wordpress.org/plugins/woocommerce-embed-videos-to-product-image-gallery/)
+* [Video embed thumbnail-generator](https://wordpress.org/plugins/video-embed-thumbnail-generator/)
+* [fv wordpress flowplayer](https://wordpress.org/plugins/fv-wordpress-flowplayer/)
+* [WPmbytplayer](https://wordpress.org/plugins/wpmbytplayer/)
 
 ## <a name="webshop"></a>Webshop
 * [Ajax add to cart for WooCommerce](https://nl.wordpress.org/plugins/woo-ajax-add-to-cart/)
@@ -371,10 +385,13 @@ Also see [Profile](#profile) and [Membership](#link)
 * [Woocommerce Single Product Page Customizer](https://nl.wordpress.org/plugins/woo-single-product-page-customizer/)
 * [WooCommerce Single Product Checkout](https://wordpress.org/plugins/woocommerce-single-product-checkout/)
 * [Rearrange Woocommerce Products](https://nl.wordpress.org/plugins/rearrange-woocommerce-products/)
+* [WooCommerce Product Archive Customiser](https://wordpress.org/plugins/woocommerce-product-archive-customiser/)
 * [WPC Fly Cart for WooCommerce](https://wordpress.org/plugins/woo-fly-cart/)
 * [WooCommerce Advanced Product Size Chart](https://wordpress.org/plugins/woo-advanced-product-size-chart/)
+* [Advanced Order Export For WooCommerce](https://wordpress.org/plugins/woo-order-export-lite/)
 * [WPC Product Bundles for WooCommerce](https://wordpress.org/plugins/woo-product-bundle/)
 * [WooCommerce Custom Related Products](https://wordpress.org/plugins/woo-custom-related-products/)
+* [Grid/List View for WooCommerce](https://wordpress.org/plugins/gridlist-view-for-woocommerce/)
 * [Checkout Field Editor (Checkout Manager) for WooCommerce](https://wordpress.org/plugins/woo-checkout-field-editor-pro/)
 * [Woo Related Products](https://wordpress.org/plugins/woo-related-products-refresh-on-reload/)
 * [WooCommerce Multi-Step Checkout](https://wordpress.org/plugins/wp-multi-step-checkout/)
