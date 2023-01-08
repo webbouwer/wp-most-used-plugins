@@ -144,8 +144,13 @@ For import use the [wp-plugin-bundle list.md](https://github.com/webbouwer/wp-pl
 * https://businessdirectoryplugin.com/features/
 
 ## <a name="event"></a>Event, Calendar & Agenda
+* [Very simple event list](https://nl.wordpress.org/plugins/very-simple-event-list/)
 * [Simple Schedule appointments](https://wordpress.org/plugins/simply-schedule-appointments/)
 * [events-manager](https://wordpress.org/plugins/events-manager/)
+* [Booking](https://wordpress.org/plugins/booking/)
+* [WP booking system](https://wordpress.org/plugins/wp-booking-system/)
+* [bookly responsive appointment booking tool](https://wordpress.org/plugins/bookly-responsive-appointment-booking-tool/) comprehensive for business
+* [Event Feed for Eventbrite](https://wordpress.org/plugins/event-feed-for-eventbrite/)
 * [WP Fullcalendar](https://wordpress.org/plugins/wp-fullcalendar/) integrate with events-manager
 * [all-in-one-event-calendar](https://wordpress.org/plugins/all-in-one-event-calendar/)
 * [Simple Calendar – Google Calendar Plugin](https://wordpress.org/plugins/google-calendar-events/) 
