@@ -269,10 +269,12 @@ Also see [community](#community) and [fora section](https://github.com/webbouwer
 * [Elementor](https://wordpress.org/plugins/elementor/)
 
 ## <a name="payment"></a>Payment
-* https://wordpress.org/plugins/paytium/
-* https://wordpress.org/plugins/mollie-forms/
-* https://wordpress.org/plugins/doneren-met-mollie/
-* https://wordpress.org/plugins/cf7-mollie
+* [Paytium](https://wordpress.org/plugins/paytium/)
+* [Mollie forms](https://wordpress.org/plugins/mollie-forms/)
+* [WooCommerce Stripe Payment Gateway](https://wordpress.org/plugins/woocommerce-gateway-stripe/)
+* [WooCommerce PayPal Checkout Payment Gateway](https://wordpress.org/plugins/woocommerce-gateway-paypal-express-checkout/)
+* [Doneren met Mollie](https://wordpress.org/plugins/doneren-met-mollie/)
+* [Mollie for Contact Form 7](https://wordpress.org/plugins/cf7-mollie)
 Also see [payment section](https://github.com/webbouwer/wp-most-used-plugins/tree/master/payment)
 
 ## <a name="popup"></a>Popup
