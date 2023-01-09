@@ -420,4 +420,3 @@ Also see [Profile](#profile) and [Membership](#link)
 * https://wordpress.org/plugins/display-widgets/
 * https://wordpress.org/plugins/black-studio-tinymce-widget/
 * https://wordpress.org/plugins/wp-widget-in-navigation/
-
