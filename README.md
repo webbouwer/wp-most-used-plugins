@@ -132,7 +132,7 @@ For import use the [wp-plugin-bundle list.md](https://github.com/webbouwer/wp-pl
 
 ## <a name="copy-content"></a>Copy content
 * [DuplicatePage](https://nl.wordpress.org/plugins/duplicate-page/)
-* [CF Page or Post Duplicator]()
+* [Page or post clone](https://nl.wordpress.org/plugins/page-or-post-clone)
 
 ## <a name="customtype"></a>Custom Type
 * https://wordpress.org/plugins/types/
