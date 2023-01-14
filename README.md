@@ -15,6 +15,7 @@ For import use the [wp-plugin-bundle list.md](https://github.com/webbouwer/wp-pl
 * [Browsing & Scrolling](#browsing): Browsing, scrolling and content loading
 * [Buttons](#buttons): Button tools and extensions - see also [Image](#image) and [Navigation](#navigation)
 * [Category](#category): Category tools and function extensions - see also [List](#list) and [Widget](#widget)
+* [Classic WP](#classic): Wordpress return to classic elements
 * [Coming soon](#coming-soon): Coming soon / underconstruction page plugins
 * [Copy content](#copy-content): Content Copy/Duplicate tools and function extensions
 * [Commments](#comment): Comments display, options and management
@@ -116,6 +117,11 @@ For import use the [wp-plugin-bundle list.md](https://github.com/webbouwer/wp-pl
 * https://wordpress.org/plugins/order-categories/
 * https://wordpress.org/plugins/categories-images/
 * https://wordpress.org/plugins/taxonomy-terms-order/
+
+## <a name="classic"></a>Classic
+* https://wordpress.org/plugins/classic-editor-and-classic-widgets/
+* https://wordpress.org/plugins/classic-widgets/
+* https://wordpress.org/plugins/classic-editor/
 
 ## <a name="coming-soon"></a>Coming soon
 * Coming soon - underconstruction [coming-soon](https://wordpress.org/plugins/coming-soon/)
